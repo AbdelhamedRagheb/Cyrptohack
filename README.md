@@ -5,5 +5,5 @@ This is a  Cryptography online course from Cryptohack website.
 
 2.pip install pwntools
 
-3.pip install pwn
+3.pip install pwn(if not install use linux it will work )
 
